@@ -100,7 +100,7 @@ class _LocationScreenState extends State<LocationScreen> {
               },
             )
           ],
-        ).paddingSymmetric(horizontal: 20,vertical: 40),
+        ).paddingSymmetric(horizontal: 20,vertical: 20),
         //build save button
       ],
     );
